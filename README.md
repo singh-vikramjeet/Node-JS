@@ -8,5 +8,6 @@
 <h5>5) To install a dev dependency (for example, nodemon), run `sudo npm install nodemon -D`.</h5>
 <h5>6) To install a dependency globally (for example, nodemon), run `sudo npm install nodemon -g`.</h5>
 <h5>7) After installing all the dependencies, update the scripts section in the package.json. Add a start script, dev script and build script.</h5>
-<h5>8) Set start script to node index.js and set dev script to nodemon index.js </h5?
+<h5>8) Set start script to node index.js and set dev script to nodemon index.js </h5>
+<h5>9) Run npm run dev to run the development script and that will start the nodemon server </h5>
 
